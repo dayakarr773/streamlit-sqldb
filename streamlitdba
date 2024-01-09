@@ -1,0 +1,4 @@
+server = "fsdevserver.database.windows.net"
+database = "fsdbdev"
+username = "Dayakar"
+password = "Disys100@123"
